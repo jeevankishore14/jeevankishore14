@@ -3,7 +3,7 @@
 I’m **Kishore Gopalan**, a passionate **DevSecOps Engineer** with a knack for designing secure, scalable, and robust infrastructures.  
 
 ### 🚀 About Me  
-- 😎 **Origin** - Born and raised in Chennai, India and now moved to Copenhagen, Denmark.
+- 😎 **Origin**: Born and raised in Chennai, India and now moved to Copenhagen, Denmark.
 - 📚 **Open Source Enthusiast**: Actively contributing to and learning from the open-source community.  
 - 💻 **Programmer**: Crafting code that solves problems and creates value.  
 - 👑 **Kubestronaut**: Exploring the universe of Kubernetes and cloud-native technologies.  
