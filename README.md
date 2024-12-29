@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, World!  
 
-<!--
-**jeevankishore14/jeevankishore14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Kishore Gopalan**, a passionate **DevSecOps Engineer** with a knack for designing secure, scalable, and robust infrastructures.  
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 😎 **Origin** - Born and raised in Chennai, India 🇮🇳 and now moved to Copenhagen, Denmark 󠁤󠁫󠀸🇩🇰󠁤󠁫󠀸.
+- 📚 **Open Source Enthusiast**: Actively contributing to and learning from the open-source community.  
+- 💻 **Programmer**: Crafting code that solves problems and creates value.  
+- 👑 **Kubestronaut**: Exploring the universe of Kubernetes and cloud-native technologies.  
+- 🏸 **Badminton Player**: Smashing my way to balance and fitness.  
+- 👨‍🍳 **Great Cook**: Experimenting with flavors as much as with code.  
+- 🚗 **Traveller**: Discovering new places, cultures, and inspirations.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach out
+Let’s connect and collaborate on innovative projects that push the boundaries of technology and creativity!  
+
+- 🤝 [LinkedIn](https://www.linkedin.com/in/kishore-gopalan/)
+- 🤝 [X](https://x.com/jeevankishore_)
