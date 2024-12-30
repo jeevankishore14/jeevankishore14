@@ -19,6 +19,7 @@ Let’s connect and collaborate on innovative projects that push the boundaries 
 <a href="https://www.linkedin.com/in/kishore-gopalan/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kishore-gopalan/)
+<a href="https://x.com/jeevankishore_" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/:jeevankishore_" alt="X">
+</a>
 
