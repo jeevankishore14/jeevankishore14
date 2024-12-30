@@ -15,4 +15,6 @@ I’m **Kishore Gopalan**, a passionate **DevSecOps Engineer** with a knack for 
 
 ### 📫 Reach out
 Let’s connect and collaborate on innovative projects that push the boundaries of technology and creativity!  
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fjeevankishore_) ![LinkedIn](https://www.linkedin.com/in/kishore-gopalan/)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kishore-gopalan/)
+
