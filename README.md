@@ -21,5 +21,5 @@ Let’s connect and collaborate on innovative projects that push the boundaries 
 </a>
 
 <a href="https://x.com/jeevankishore_" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white">
 </a>
