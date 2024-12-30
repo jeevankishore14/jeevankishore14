@@ -20,6 +20,5 @@ Let’s connect and collaborate on innovative projects that push the boundaries 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://x.com/jeevankishore_" target="_blank">
-    <img src="https://img.shields.io/twitter/url" alt="X">
+    <img src="https://img.shields.io/twitter/url" alt="X (formerly Twitter) URL">
 </a>
-
